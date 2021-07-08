@@ -1,0 +1,51 @@
+https://vimeo.com/317355894 BodyCam
+0026 0034 weapon drawn
+
+https://vimeo.com/350368161 BodyCam
+0006 0059 weapon drawn
+0137 0154 person definitely injured or dead
+0204 0228
+0236 0318
+
+https://vimeo.com/317354852 BodyCam
+0035 0039 weapon drawn
+0042 0044
+
+https://vimeo.com/308443758 BodyCam
+0002 0005 weapon drawn
+0029 0036 
+0039 0050
+0051 0145 person shot definitely injured 
+0223 0230 
+0251 0310 
+
+https://vimeo.com/190569466 BodyCam
+
+https://vimeo.com/305087826 BodyCam
+0208 0301 person injured 
+0304 0315
+0320 0343
+
+https://vimeo.com/332704476 BodyCam
+0013 0030 person down possibly injured or dead
+0036 0038 weapon drawn
+0145 0150 weapon
+0151 0154 person down
+0206 0208 weapon
+0215 0218 
+0223 0227
+0228 0234 person down 
+0242 0247 weapon
+0320 0340 person down 
+0341 0344 weapon
+0345 0349 person down 
+
+https://vimeo.com/305087979 BodyCam
+0150 0152 weapon
+
+https://vimeo.com/201173741 BodyCam
+0233 0238 person down definitely injured or dead
+
+https://vimeo.com/327062633 BodyCam
+0036 0039 weapon drawn
+

@@ -1,0 +1,105 @@
+https://vimeo.com/388542515 BodyCam
+0242 0245 weapon drawn
+0248 0250 
+0251 0255
+0256 0259 person down possibly injured
+0300 0301 weapon drawn
+0306 0308 
+0310 0314 
+0318 0320 
+0322 0325
+0343 0344 
+0347 0350 
+0401 0406
+
+https://vimeo.com/347297432 BodyCam
+0221 0233 weapons
+0236 0240 
+
+https://vimeo.com/181835558 BodyCam
+0521 0530 person sick or injured
+0533 0537
+0540 0556 weapon
+0607 0613
+0621 0623
+0628 0632
+0710 0716
+0734 0741
+0744 0749
+
+https://vimeo.com/358377878 BodyCam
+0215 0221 weapons drawn
+0222 0229 person down and injured and weapons drawn
+0231 0237
+0238 0258 person down and injured 
+0750 0758 
+
+https://vimeo.com/411090214 BodyCam
+0636 0642 person down definitely injured or dead
+0643 0704 person mostly blurred out from here on
+0709 0711 
+0715 0718
+0720 0725
+0746 0749 weapon 
+
+https://vimeo.com/358379592 BodyCam
+0240 0242 weapon drawn
+0256 0258 
+0313 0331 
+0335 0339 
+0340 0347
+0348 0408 person down possibly injured and weapon drawn
+0409 0419 weapon drawn
+0421 0518 person down possibly injured
+0536 0540
+0541 0635 
+0729 0815 
+
+https://vimeo.com/411092716 BodyCam
+0640 0645 person down definitely injured or dead but mostly blurred out
+0649 0653
+0701 0711
+0723 0730 
+0744 0748
+0750 0802
+0808 0815
+
+https://vimeo.com/188850501 BodyCam
+
+https://vimeo.com/394334602 BodyCam
+0150 0156 weapon drawn
+0216 0218 
+0220 0256 
+0321 0327 
+0332 0335 
+0428 0430
+0432 0435 person down definitely injured or dead and weapons drawn
+0437 0441 
+0450 0453 
+0502 0508 
+0521 0523
+0524 0546 person down definitely injured or dead
+0547 0552 weapon drawn
+0554 0609 person down definitely injured or dead and weapons drawn
+0626 0632 
+0646 0651 person down definitely injured or dead
+0653 0655
+0700 0703
+0713 0715 
+0743 0745 weapon drawn
+0748 0752
+0805 0812 person down definitely injured or dead
+
+https://vimeo.com/394336248 BodyCam
+0159 0205 weapon drawn
+0229 0238
+0315 0321
+0322 0325
+0326 0331
+0403 0408 
+0415 0418 
+0519 0526 
+0726 0730 
+0736 0740
+0744 0747 
+0752 0755

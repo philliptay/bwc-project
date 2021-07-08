@@ -1,0 +1,78 @@
+https://vimeo.com/305087373 BodyCam
+0029 0043 person injured 
+0054 0100 
+0105 0111
+0115 0119 
+0121 0127
+0139 0146
+0151 0154 
+0200 0207 
+0209 0212 
+0228 0259 
+0301 0307 
+0314 0316 
+
+https://vimeo.com/395590253 BodyCam
+0156 0205 person down definitely injured or dead
+0208 0214 
+0215 0221
+0233 0237 
+0238 0247 
+0306 0311
+0324 0339 
+0342 0346 
+
+https://vimeo.com/304213917 BodyCam
+0129 0157 weapon drawn
+0208 0212
+0242 0252 
+
+https://vimeo.com/423776917 BodyCam
+0158 0209 aftermath of a bad car accident
+0221 0245 
+0251 0310
+0325 0333
+0357 0400
+0401 0405
+0407 0444
+0452 0456 
+0502 0519
+0527 0540
+0542 0549 
+
+https://vimeo.com/350368010 BodyCam
+0001 0318 weapon drawn
+
+https://vimeo.com/411085658 BodyCam
+0132 0209 weapon drawn
+0210 0214 person down possibly injured and weapon drawn
+0225 0244
+0249 0304
+0307 0309 
+0338 0400 person down definitely injured or dead
+0401 0538 
+0539 0543 
+0545 0557 
+
+https://vimeo.com/411088861 BodyCam
+0212 0215 weapon drawn
+0220 0227
+0228 0238 person down definitely injured or dead
+0249 0319
+0320 0323 weapon drawn
+0325 0611 person down definitely injured or dead
+
+https://vimeo.com/395590012 BodyCam
+0239 0246 person down definitely injured or dead
+0253 0257
+0307 0309 
+0357 0402 
+
+https://vimeo.com/194071823 BodyCam
+0108 0357 person down definitely injured or dead
+0400 0546 
+0555 0615 
+
+https://vimeo.com/201173776 BodyCam
+0536 0550 weapons drawn
+0554 0558
